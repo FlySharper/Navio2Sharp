@@ -36,6 +36,7 @@
   <ItemGroup>
     <Compile Include="Config.cs" />
     <Compile Include="InternalBase.cs" />
+    <Compile Include="PWM.cs" />
     <Compile Include="MPU9250.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

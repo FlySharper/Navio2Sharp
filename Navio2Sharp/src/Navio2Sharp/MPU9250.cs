@@ -28,19 +28,19 @@ namespace Navio2Sharp
 
         public float AX { get { return _ax; } }
 
-        public float AY { get { return _az; } }
+        public float AY { get { return _ay; } }
 
         public float AZ { get { return _az; } }
 
-        public float GX { get { return _ax; } }
+        public float GX { get { return _gx; } }
 
-        public float GY { get { return _az; } }
+        public float GY { get { return _gy; } }
 
-        public float GZ { get { return _az; } }
+        public float GZ { get { return _gz; } }
 
         public float MX { get { return _mx; } }
 
-        public float MY { get { return _mz; } }
+        public float MY { get { return _my; } }
 
         public float MZ { get { return _mz; } }
         #endregion

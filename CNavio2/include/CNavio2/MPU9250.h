@@ -16,10 +16,10 @@ CNAVIO2_API void nv2MPU9250_Update(nv2MPU9250* mpu9250);
 
 CNAVIO2_API float nv2MPU9250_ReadTemperature(nv2MPU9250* mpu9250);
 
-CNAVIO2_API void nv2MPU9250_ReadAccelerometer(nv2MPU9250* mpu9250, float *ax, float *ay, float *az);
+CNAVIO2_API void nv2MPU9250_ReadAccelerometer(nv2MPU9250* mpu9250, float* ax, float* ay, float* az);
 
-CNAVIO2_API void nv2MPU9250_ReadGyroscope(nv2MPU9250* mpu9250, float *gx, float *gy, float *gz);
+CNAVIO2_API void nv2MPU9250_ReadGyroscope(nv2MPU9250* mpu9250, float* gx, float* gy, float* gz);
 
-CNAVIO2_API void nv2MPU9250_ReadMagnetometer(nv2MPU9250* mpu9250, float *mx, float *my, float *mz);
+CNAVIO2_API void nv2MPU9250_ReadMagnetometer(nv2MPU9250* mpu9250, float* mx, float* my, float* mz);
 
 #endif

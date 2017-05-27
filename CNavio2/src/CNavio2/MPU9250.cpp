@@ -12,7 +12,7 @@ struct nv2MPU9250
 
 nv2MPU9250* nv2MPU9250_Create()
 {
-    return new nv2MPU9250();
+    return new nv2MPU9250;
 }
 
 void nv2MPU9250_Destroy(nv2MPU9250* mpu9250)

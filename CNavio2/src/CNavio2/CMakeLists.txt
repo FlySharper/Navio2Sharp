@@ -21,6 +21,8 @@ set(SRC
     ${INCROOT}/Export.h
     ${INCROOT}/MPU9250.h
     ${SRCROOT}/MPU9250.cpp
+    ${INCROOT}/PWM.h
+    ${SRCROOT}/PWM.cpp
     ${INCROOT}/Types.h
 )
 

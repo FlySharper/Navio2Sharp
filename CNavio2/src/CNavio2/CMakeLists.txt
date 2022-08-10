@@ -23,6 +23,8 @@ set(SRC
     ${SRCROOT}/MPU9250.cpp
     ${INCROOT}/PWM.h
     ${SRCROOT}/PWM.cpp
+    ${INCROOT}/RCInput.h
+    ${SRCROOT}/RCInput.cpp
     ${INCROOT}/Types.h
 )
 

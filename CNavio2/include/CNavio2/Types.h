@@ -5,4 +5,6 @@ typedef struct nv2MPU9250 nv2MPU9250;
 
 typedef struct nv2PWM nv2PWM;
 
+typedef struct nv2RCInput nv2RCInput;
+
 #endif
